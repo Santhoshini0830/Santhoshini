@@ -1,11 +1,17 @@
-# 👋 Hi, I'm Naga Santhoshini
+# 👋Hi, I'm Naga Santhoshini
 
 **Full Stack Developer** specializing in building scalable web applications with Java and modern JavaScript frameworks.
 
-**Technical Skills**
-Backend:        Java • Spring Boot • RESTful APIs
-Frontend:       React.js • Angular • JavaScript • HTML5 • CSS3
-Database:       PostgreSQL • MySQL
+## 🛠 Technical Expertise
+
+**Backend Development**
+- Java • Spring Boot • REST APIs • Microservices
+- PostgreSQL • MySQL 
+
+**Frontend Development**  
+- React.js • Angular • TypeScript • JavaScript
+- HTML5 • CSS3 • Responsive Design
+
 
 ## 💼 Currently Working On
 
